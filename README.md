@@ -31,7 +31,7 @@ Created profiles on:
 - Link: www.linkedin.com/in/shriram-sharma-602a143b9
 - Kaggle  
 - Link: kaggle.com/SHRIRAMSHARMA108
-Purpose: Build professional online presence.
+- Purpose: Build professional online presence.
 
 ---
 
