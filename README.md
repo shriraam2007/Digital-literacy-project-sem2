@@ -1,6 +1,6 @@
 # Digital Literacy Project
 
-## 👤 Student Details
+## Student Details
 Name: [Shriram Sharma]  
 Reg No: [25BCE10524]  
 Branch: B.Tech [CSE Core]  
@@ -8,7 +8,7 @@ Year: 1st Year
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 This project is part of the CSE0001 Digital Literacy course. It demonstrates practical understanding of digital tools, professional communication, and cyber safety through five structured tasks.
 
 ---
