@@ -1,0 +1,10 @@
+‘Stay Safe Online' Checklist
+
+•	Enable Two-Factor Authentication (2FA): We should always use this on our email to add a second layer of security.
+•	Verify the Sender: Always check the actual email address, not just the "Display Name." 
+•	Hover Before You Click:  Try to hover the mouse over any link to see the actual destination URL before clicking. 
+•	Use Strong, Unique Passwords: It is better to use different passwords for the college portal and personal social media.
+•	Avoid Public Wi-Fi for Transactions: One should never log into our bank or college portal using public Wi-Fi.
+•	UPI Safety - PIN is for Sending:  Remember that we only need to enter our UPI PIN to send money, never to receive it.
+•	Verify UPI IDs: Before approving a payment request, double-check the recipient's name in the UPI app.
+•	Report Promptly: If a scam happens unfortunately, report it immediately at cybercrime.gov.in or call the National Helpline at 1930.
