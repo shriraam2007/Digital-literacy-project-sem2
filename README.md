@@ -1,10 +1,10 @@
 # Digital Literacy Project
 
 ## Student Details
-Name: [Shriram Sharma]  
-Reg No: [25BCE10524]  
-Branch: B.Tech [CSE Core]  
-Year: 1st Year  
+Name: Shriram Sharma  
+Reg No: 25BCE10524  
+Branch: B.Tech CSE Core  
+Year: First Year  
 
 ---
 
@@ -17,7 +17,7 @@ This project is part of the CSE0001 Digital Literacy course. It demonstrates pra
 
 ### Task 1 – Digital Literacy Infographic
 Created an infographic using Canva covering:
-- Digital literacy basics
+- Basics of Digital literacy 
 - Safe internet practices
 - Professional online presence
 - Link: https://www.canva.com/design/DAHE8cewWbA/5BY816ZuWi7NrPVJPv-0RQ/edit?utm_content=DAHE8cewWbA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
@@ -26,7 +26,7 @@ Created an infographic using Canva covering:
 ### Task 2 – Digital Portfolio
 Created profiles on:
 - GitHub
-- Link
+- Link: https://github.com/shriraam2007/shriraam2007
 - LinkedIn
 - Link: www.linkedin.com/in/shriram-sharma-602a143b9
 - Kaggle  
@@ -36,8 +36,8 @@ Created profiles on:
 ---
 
 ### Task 3 – Platforms
-- Completed beginner coding problem on HackerRank  
-- Created Google Form quiz  
+- Completed beginner level coding problem on HackerRank  
+- Created a Google Form quiz awareness about Digital literacy
 
 Google Form Link: (https://docs.google.com/forms/d/e/1FAIpQLSctXjCh34q5F6vgC45rodVCf2pelF4KAVko4QQE3db7Q2tq6w/viewform?pli=1&pli=1)
 
@@ -51,7 +51,7 @@ Google Form Link: (https://docs.google.com/forms/d/e/1FAIpQLSctXjCh34q5F6vgC45ro
 
 ### Task 5 – Cybercrime Awareness
 - Case study on UPI Fraud  
-- Created prevention checklist  
+- Created a fraud prevention checklist  
 
 ---
 
