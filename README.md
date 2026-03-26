@@ -57,14 +57,14 @@ Google Form Link: (https://docs.google.com/forms/d/e/1FAIpQLSctXjCh34q5F6vgC45ro
 
 ## Repository Structure
 digital-literacy-project/
-│
-├── README.md
-├── report/
-├── task-1-presentation/
-├── task-2-portfolio/
-├── task-3-platforms/
-├── task-4-email-etiquette/
-└── task-5-cybercrime/
+- │
+- ├── README.md
+- ├── report/
+- ├── task-1-presentation/
+- ├── task-2-portfolio/
+- ├── task-3-platforms/
+- ├── task-4-email-etiquette/
+- └── task-5-cybercrime/
 
 
 ---
